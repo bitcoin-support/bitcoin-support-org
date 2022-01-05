@@ -19,7 +19,7 @@ function HomepageHeader() {
             to="https://cal.com/bitcoin-support">
             📞 Schedule a call!
           </Link>
-          </div>
+        </div>
         ---------------------------------
         <div className={styles.buttons}>
           <Link
