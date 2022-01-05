@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Refund',
+    title: 'Complex questions',
     Svg: require('../../static/img/undraw_bitcoin.svg').default,
     description: (
       <>
-        No matter at what level. We help you so that you understand. If you are not sure if we can help you, just send us an email and we will get back to you. If you have booked an appointment and we can't help you, your money will be refunded.
+        If you are not sure if we can help you, just send us an email and we will get back to you. If you have booked an appointment and we can't help you, your money will be refunded.
       </>
     ),
   },
