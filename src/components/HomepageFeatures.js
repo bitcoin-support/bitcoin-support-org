@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Beginner',
+    Svg: require('../../static/img/undraw_explore.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Are you new to Bitcoin? We can help you with any questions you have. Make an appointment and ask us.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Topics',
+    Svg: require('../../static/img/undraw_questions.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We will help you with all topics related to Bitcoin. Hardware Wallets, Software Wallets, the Blockchain, Nodes, Mining, ... For questions regarding taxes and investment, we can not give any advice.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Refund',
+    Svg: require('../../static/img/undraw_bitcoin.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        No matter at what level. We help you so that you understand. If you are not sure if we can help you, just send us an email and we will get back to you. If you have booked an appointment and we can't help you, your money will be refunded.
       </>
     ),
   },
