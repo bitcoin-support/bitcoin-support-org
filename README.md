@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2147316f-6717-4666-a61a-9f6f61807e50/deploy-status)](https://app.netlify.com/sites/cranky-roentgen-d7b800/deploys)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
